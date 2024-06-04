@@ -7,6 +7,7 @@ No sistema de economia da *Celestine* é usado a moeda ficticia **Parsec**, pode
 
 
 - ***Comunidade oficial: https://discord.gg/e64JuszTbv***
+- ***Adicione a Celestine: https://discord.com/oauth2/authorize?client_id=1247272742760480878&scope=bot&permissions=8***
 
 
 ## História 
